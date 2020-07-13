@@ -1,7 +1,7 @@
 import unittest
 
-def multiplication(a, b):
-    return a * b
+from multiplication import multiplication
+
 
 class MultiplicationTest(unittest.TestCase):
     def test_1(self):

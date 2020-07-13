@@ -1,7 +1,7 @@
 import unittest
 
-def subtraction(a, b):
-    return a - b
+from subtraction import subtraction
+
 
 class SubtractionTest(unittest.TestCase):
 

@@ -1,7 +1,7 @@
 import unittest
 
-def devision(a, b):
-    return a / b if b != 0 else 'It is impossible to do that'
+from devision import devision
+
 
 class DevisionTest(unittest.TestCase):
     def test_1(self):

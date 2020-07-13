@@ -1,7 +1,7 @@
 import unittest
 
-def addition(a, b):
-    return a + b
+from addition import addition
+
 
 class AdditionTest(unittest.TestCase):
     def test_1(self):
