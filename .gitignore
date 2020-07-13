@@ -1,1 +1,6 @@
-**.txt
+*.csv
+*.json
+*.zip
+*.tsv
+*.txt
+*.tar
