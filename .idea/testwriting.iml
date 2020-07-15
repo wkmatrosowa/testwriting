@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/2020-07-13" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2020-07-14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2020-07-15" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
